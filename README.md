@@ -9,4 +9,4 @@
 
 
 # Projetos
-Analisando os dados do Airbnb - Rio de Janeiro: 
+Analisando os dados do Airbnb - Rio de Janeiro: https://github.com/ClaudioMichael/Meu-portifolio-de-projetos-de-Data-science/blob/main/C%C3%B3pia_de_%5BTemplate%5D_Analisando_os_Dados_do_Airbnb.ipynb
